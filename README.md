@@ -1,2 +1,2 @@
-# react-maplibe-test
+# react-maplibre-test
 Created with CodeSandbox
